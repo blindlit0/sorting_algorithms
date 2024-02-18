@@ -59,7 +59,7 @@ void swap_node_behind(listint_t **list, listint_t **tail, listint_t **shaker)
 }
 
 /**
- * cocktail_sort_list - Function to sort a listint_t doubly-linked list of integers
+ * cocktail_sort_list - Sort a listint_t doubly-linked list of integers
  *			in ascending order using the cocktail shaker algorithm.
  * @list: Pointer to the head of a listint_t doubly-linked list.
  */
